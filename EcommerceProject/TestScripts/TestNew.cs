@@ -8,5 +8,9 @@ namespace EcommerceProject.TestScripts
 {
     internal class TestNew
     {
+        public void good()
+        {
+            TestContext.Progress.WriteLine("I am good");
+        }
     }
 }

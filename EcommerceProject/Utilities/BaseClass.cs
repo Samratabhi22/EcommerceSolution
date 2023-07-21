@@ -14,6 +14,7 @@ using WebDriverManager.DriverConfigs.Impl;
 
 namespace EcommerceProject.Utilities
 {
+
     internal class BaseClass
     {
        public WebDriverUtility wdu = new WebDriverUtility();

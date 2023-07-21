@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EcommerceProject.TestScripts
 {
-    internal class TestNew
+    public class TestNew
     {
         public void good()
         {
